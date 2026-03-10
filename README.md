@@ -5,7 +5,10 @@
 ## Live Dashboard
 
 Interactive Power BI dashboard published via Power BI Service.
-https://app.powerbi.com/view?r=eyJrIjoiY2YwNzY3ZDUtOTU2OC00NDg2LWJiMWItZjc5OGM5MTA4N2FkIiwidCI6ImE4OTE2ZTg1LTM4ZWYtNDMzOC1hMWMxLTIyMTU4NmY2MDMwNSJ9
+<a href="https://app.powerbi.com/view?r=eyJrIjoiY2YwNzY3ZDUtOTU2OC00NDg2LWJiMWItZjc5OGM5MTA4N2FkIiwidCI6ImE4OTE2ZTg1LTM4ZWYtNDMzOC1hMWMxLTIyMTU4NmY2MDMwNSJ9" target="_blank">
+  <img src="Overview.png" width="900">
+</a>
+
 
 **Focus
 - Repeat call rate analysis
