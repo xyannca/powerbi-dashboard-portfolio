@@ -2,6 +2,11 @@
 
 ![Dashboard Preview](Overview.png)
 
+## Live Dashboard
+
+Interactive Power BI dashboard published via Power BI Service.
+https://app.powerbi.com/view?r=eyJrIjoiY2YwNzY3ZDUtOTU2OC00NDg2LWJiMWItZjc5OGM5MTA4N2FkIiwidCI6ImE4OTE2ZTg1LTM4ZWYtNDMzOC1hMWMxLTIyMTU4NmY2MDMwNSJ9
+
 **Focus
 - Repeat call rate analysis
 - Drivers by market and call type
